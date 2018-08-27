@@ -20,6 +20,7 @@
 @property (nonatomic, assign) CGFloat height;
 @property (nonatomic, strong) UIView *localImage;
 
+//@property (nonatomic, strong) UIView *localImage;
 
 @end
 
