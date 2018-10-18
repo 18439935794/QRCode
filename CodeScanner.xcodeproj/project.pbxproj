@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5F24CA962088736900C86B46 /* resultViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F24CA952088736900C86B46 /* resultViewController.m */; };
+		5F38406721786BEE003A39C0 /* 滴-2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5F38406621786BED003A39C0 /* 滴-2.mp3 */; };
 		5F4E338D208494DA002287EB /* zsRC.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F4E338C208494DA002287EB /* zsRC.png */; };
 		5F4E339020849BE4002287EB /* pick_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F4E338E20849BE4002287EB /* pick_bg@2x.png */; };
 		5F4E339120849BE4002287EB /* pick_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F4E338F20849BE4002287EB /* pick_bg.png */; };
@@ -26,6 +27,7 @@
 /* Begin PBXFileReference section */
 		5F24CA942088736800C86B46 /* resultViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = resultViewController.h; sourceTree = "<group>"; };
 		5F24CA952088736900C86B46 /* resultViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = resultViewController.m; sourceTree = "<group>"; };
+		5F38406621786BED003A39C0 /* 滴-2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "滴-2.mp3"; sourceTree = "<group>"; };
 		5F4E338C208494DA002287EB /* zsRC.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zsRC.png; sourceTree = "<group>"; };
 		5F4E338E20849BE4002287EB /* pick_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pick_bg@2x.png"; sourceTree = "<group>"; };
 		5F4E338F20849BE4002287EB /* pick_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pick_bg.png; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 		B4B402A21E889AF600A5D104 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5F38406621786BED003A39C0 /* 滴-2.mp3 */,
 				B495E0731E896288000525DD /* wq_code_scanner_back@2x.png */,
 				5F4E338C208494DA002287EB /* zsRC.png */,
 				5F4E338F20849BE4002287EB /* pick_bg.png */,
@@ -188,6 +191,7 @@
 				B4B402AF1E889AF600A5D104 /* Assets.xcassets in Resources */,
 				B4B402AD1E889AF600A5D104 /* Main.storyboard in Resources */,
 				5F4E339520849BEC002287EB /* line@2x.png in Resources */,
+				5F38406721786BEE003A39C0 /* 滴-2.mp3 in Resources */,
 				5F4E339120849BE4002287EB /* pick_bg.png in Resources */,
 				B495E0741E896288000525DD /* wq_code_scanner_back@2x.png in Resources */,
 				5F4E338D208494DA002287EB /* zsRC.png in Resources */,

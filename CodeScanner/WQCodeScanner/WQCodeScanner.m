@@ -1,6 +1,7 @@
 
 
 #import "WQCodeScanner.h"
+#import "resultViewController.h"
 #import <AVFoundation/AVFoundation.h>
 @interface WQCodeScanner ()<AVCaptureMetadataOutputObjectsDelegate,UIImagePickerControllerDelegate, UINavigationControllerDelegate>
 {
@@ -259,6 +260,7 @@
     }
     if (metadataObjects.count > 0) {
         //震动
+        // TODO: 
         [self playBeep];
         //停止扫描
         _isReading = NO;
